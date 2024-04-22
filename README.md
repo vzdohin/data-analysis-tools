@@ -16,7 +16,7 @@
 
 ### Клонирование репозитория
 
-git clone https://github.com/yourusername/data-analysis-tools.git
+git clone https://github.com/yourusername/data-analysis-tools.git  
 cd data-analysis-tools
 
 ### Установка зависимостей
